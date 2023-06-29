@@ -1,0 +1,1 @@
+This is simpe documentation on deployng a text app 
